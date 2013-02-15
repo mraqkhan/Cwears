@@ -1,0 +1,7 @@
+V1.0.3
+
+02-11-2013 - Fixed used colors and hidden colors were omitted during save/load.
+02-10-2013 - Fixed Error on mydesigns.tpl. Added SSL link to my designs
+02-09-2013 - Added exportimage.php file to export design as PNG file
+02-07-2013 - Added link to "Your Designs" on My Account
+02-06-2013 - Product sorted by name on floating window
